@@ -10,9 +10,9 @@
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/chino540off/conf-scripts
-[submodule "vim"]
-	path = vim
-	url = https://github.com/chino540off/conf-vim
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/chino540off/conf-dotfiles
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/chino540off/conf-nvim
