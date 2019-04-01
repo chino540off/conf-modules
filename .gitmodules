@@ -1,18 +1,18 @@
 [submodule "awesome"]
 	path = awesome
-	url = https://github.com/chino540off/conf-awesome
+	url = git@github.com:chino540off/conf-awesome
 [submodule "zsh"]
 	path = zsh
-	url = https://github.com/chino540off/conf-zsh
+	url = git@github.com:chino540off/conf-zsh
 [submodule "builder"]
 	path = builder
-	url = https://github.com/chino540off/conf-builder
+	url = git@github.com:chino540off/conf-builder
 [submodule "scripts"]
 	path = scripts
-	url = https://github.com/chino540off/conf-scripts
+	url = git@github.com:chino540off/conf-scripts
 [submodule "dotfiles"]
 	path = dotfiles
-	url = https://github.com/chino540off/conf-dotfiles
+	url = git@github.com:chino540off/conf-dotfiles
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/chino540off/conf-nvim
+	url = git@github.com:chino540off/conf-nvim
