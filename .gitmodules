@@ -1,6 +1,3 @@
-[submodule "awesome"]
-	path = awesome
-	url = git@github.com:chino540off/conf-awesome
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:chino540off/conf-zsh
