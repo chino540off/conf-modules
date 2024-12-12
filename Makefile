@@ -1,3 +1,10 @@
+modules ?=	\
+  wm		\
+  dotfiles	\
+  scripts	\
+  nvim		\
+  zsh
+
 install:
-	${MAKE} -f ./builder/rules.mk install
+	modules="${modules}" ${MAKE} -f ./builder/rules.mk install
 
