@@ -8,3 +8,6 @@ modules ?=	\
 install:
 	modules="${modules}" ${MAKE} -f ./builder/rules.mk install
 
+check:
+	modules="${modules}" ${MAKE} -f ./builder/rules.mk check
+
