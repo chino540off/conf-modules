@@ -6,8 +6,8 @@ modules ?=	\
   zsh
 
 install:
-	modules="${modules}" ${MAKE} -f ./builder/rules.mk install
+	${MAKE} modules="${modules}" -f ./builder/rules.mk install
 
 check:
-	modules="${modules}" ${MAKE} -f ./builder/rules.mk check
+	${MAKE} modules="${modules}" -f ./builder/rules.mk check
 
